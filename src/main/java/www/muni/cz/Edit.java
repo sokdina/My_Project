@@ -8,6 +8,7 @@ public class Edit
 {
     public int ( String[] args )
     {
-        System.out.println( "I am editing now" );
+        System.out.println( "Editing is Ready" );
+	System.out.println( "Try one more!" );
     }
 }
